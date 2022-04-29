@@ -1,0 +1,6 @@
+25/04/2022
+verificando as tensões da tomada do senac - 121.7v (200 corrente alternada)
+testando a continuidade do cabo de força - teste feito, apresenta continuidade (diodo)
+testando cabo de força ligado na fonte - tudo certo
+testando corrente continua na fonte (3,3v laranja, 5V vermelho e 12v amarelo) - tudo certo	
+teste protoboard - fio amarelo 12v, fio preto neutro e fio vermelho 5v
