@@ -20,3 +20,12 @@ conferindo medidas - circuito de 12v (cabo amarelo 12v + preto 0v) primeira tril
 circuito de 5 v (cabo vermelho 5v + cabo preto 0v) segunda trilha horizontal=  5.01v
 circuito de 7v (cabo amarelo 12v + cabo vermelho 5v) terceira trilha horizontal = 6.09v
 
+medindo amperagem do sistema
+1 fan: 0.14A / 11.89v
+2 fan: 0.27A / 11.86v
+
+resistor ligado
+4 LED conectados a protoboard
+
+4 fontes ligadas na régua
+
