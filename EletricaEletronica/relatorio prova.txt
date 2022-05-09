@@ -29,3 +29,8 @@ resistor ligado
 
 4 fontes ligadas na régua
 
+potenciometro
+121,3v tomada
+40,9W de consumo 4 fontes
+0,78A de corrente
+
