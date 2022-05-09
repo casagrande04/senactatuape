@@ -1,0 +1,22 @@
+RELATÓRIO DIA DE PROVA
+
+medindo voltagem da tomada- fase x neutro = 123v; fase x  terra = 123.5v; neutro x terra = 0v.
+medindo continuidade do cabo - zerado, boa continuidade
+medindo resistencia do cabo - o,5 ohms
+medindo resistencia do cabo na tomada - 123v
+ligando fonte modelo seasonic 300w na tomada, ligou corretamente com o clips de aluminio no cabo verde (standby) e preto (neutro)
+utilizando testador de fonte, começando os procedimentos de checagem
+cabo 24 pinos placa mãe - ok - 5v ok, 12v1 ok, -12v 11.9 ok, 12v2, 3.3v ok, pg 280, 5vsb 5.0
+cabo 4 pinos processador - ok - 5v ok, 12v1 ok, -12 11.9 ok, 12v2, 3.3v ok
+cabo molex - 12v ok, 5v ok
+flop disk - ok
+cabo SATA - ok
+
+montagem da protoboard
+cabo neutro na entrada preta da protoboard/ dois cabos na saida preta da protoboard
+cabo 12v na entrada verde da protoboard/ dois cabos na saida verde da protoboard
+cabo 5v na entrada vermelha da protoboard/ dois cabos na saida vermnelha da protoboard
+conferindo medidas - circuito de 12v (cabo amarelo 12v + preto 0v) primeira trilha horizontal= 11.93v
+circuito de 5 v (cabo vermelho 5v + cabo preto 0v) segunda trilha horizontal=  5.01v
+circuito de 7v (cabo amarelo 12v + cabo vermelho 5v) terceira trilha horizontal = 6.09v
+
