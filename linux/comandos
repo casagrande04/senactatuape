@@ -1,0 +1,46 @@
+senha padrao linux
+123@senac
+
+tela preta = alguma coisa corrompida; precisa analisar (igual a tela azul do windows)
+
+
+1991 - surge o linux
+     - Slackware
+--------------------------
+1992 - Debian
+     - Red Hat
+--------------------------
+2004 - Ubuntu
+2006 - Linux Mint
+
+Debian distribuição mãe --> criou Ubuntu --> Mint (brigas originaram)
+Pacote: .deb GDEB(como se fosse exe do windows)
+
+
+COMANDOS
+
+ctrl + alt + t = terminal
+ctrl + alt +f1... f7 = cmd
+ctrl + L = clear
+ctrl + alt + backscpace
+
+
+$ usuario comum
+sudo -i modo interativo
+# root
+root pode fazer tudo 
+ctrl + d sai do root
+sempre comando sudo na frente
+sudo apt update --->atualiza as listas do apt (Atualização, remoção e tudo do linux)
+sudo apt upgrade --->atualiza todos os softwares
+sudo apt full-upgrade --->atualização completa (faz primeiro o upgrade e depois o full-upgrade)
+usar tab pra completar
+sudo apt dist-upgrade --->atualiza o sistema opercaional (Kernel)
+sudo apt autoremove --->remoção de softwares desnecessarios (cache)
+sudo apt autoclean --->fazer a limpeza do sistema (softwares)
+sudo reboot --->reiniciar
+sudo apt install --->instalar aplicativos
+sudo apt install psensor (usamos)
+sudo apt install p7zip-full p7zip-rar guvcview cheese
+sudo apt install kazam audacity vlc kolourpaint notepadqq
+sudo init 0 desliga
