@@ -44,3 +44,17 @@ sudo apt install psensor (usamos)
 sudo apt install p7zip-full p7zip-rar guvcview cheese
 sudo apt install kazam audacity vlc kolourpaint notepadqq
 sudo init 0 desliga
+
+
+terminal dentro do VSCode
+
+git clone ---> clonar um repositorio da internet pra maquina
+git pull ---> atualiza mudanças pro repostorio clonado no computador
+ctrl + j ---> abre o terminal no VSCode
+git config --global user.name "Eduardo Casagrande" ---> sincronizar com o github
+git config --global user.email edu.casagrande@hotmail.com   os dois so usam uma vez
+git config --list
+git status --_>mostra alterações
+git add. --->adicionar mudanças, salvar tudo
+git commit -m "Atualizacao" ---> cofirmar mudanças
+git push ---> atualiza o repositorio remoto
