@@ -6,4 +6,3 @@ Repositório das Aulas Técnico em Informática do SENAC Tatuapé
 Prints e anotações
 
 ![](https://tenor.com/view/think-smart-gif-12856753)
-
