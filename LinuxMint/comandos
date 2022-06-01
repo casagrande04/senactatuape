@@ -80,3 +80,35 @@ mkdir -v (nome da pasta)= criar varios diretórios/Mostra uma mensagem para cada
 touch = Muda a data e hora que um arquivo foi criado/Caso o touch seja usado com arquivos que não existam, por padrão ele criará estes arquivos. 
 mkdir -p = Caso os diretórios dos níveis acima não existam, eles também serão criados.
 mkdir -pv = cria diretório em outro diretório
+sudo rm -Rf/* (nao usar ate ultima aula)
+
+sempre q listar conteudo de diretorio e sempre q aparecer palavra na cor azul = diretorio
+SEMPRE QUE APARECER ARQUIVO NA COR BRANCA = ARQUIVO
+sempre que verificar arquivo na cor azul claro = atalho (link simbolico)
+sempre que pegar um arquivo ou diretorio com o marca texto verde = perigo*
+cor vermelho = arquivo compactado
+
+
+RELATÓRIO DESAFIO DIA 27-05-22
+
+No desafio de hoje instalamos diferentes distribuições do Sistema Operacional Linux, sendo eles: Kubuntu, Lubuntu, Ubuntu e Xubuntu.
+
+As intalações foram bem simples, já estamos pegando a prática de fazê-las; Configuramos o VirtualBox, fizemos a instalação da ISO  e 
+aplicamos as atualizações.
+
+
+HD lê de fora pra dentro
+	trilha 0 - mbr/gpt
+		partição primaria (so pode criar 4) - partição extendida (1) - partição lógica (ate 16)
+		primario = onde esta o sistema opercaional
+		extendida =  vai superar a limitação da partição primaria
+		
+se MAIOR que 2Teras = GPT
+menor = msdos
+
+		
+------------------------------------------------------
+
+#01 Criar um novo Hard Disk de 20GB com o nome Backup
+#02 Formatar o novo Hard Disk com o nome de Backup
+	
