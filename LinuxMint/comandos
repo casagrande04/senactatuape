@@ -112,3 +112,31 @@ menor = msdos
 #01 Criar um novo Hard Disk de 20GB com o nome Backup
 #02 Formatar o novo Hard Disk com o nome de Backup
 	
+REDES
+
+ifconfig (linux)= informações de rede basica 10.26.45.118
+ipconfig (windows) 10.26.45.30
+
+10.26.45 = laboratorio 16
+
+8.8.8.8 endereço google
+
+ping 8.8.8.8 = ver a latencia do linux (ctrl c pra parar)
+ping google.com
+
+GATEWAY = responsavel por levar pra internet
+route -n =mostra o gateway padrao(10.26.45.1)
+-n = mostrar apenas numeros
+
+resolvectl (linux)                Current DNS Server: 10.26.40.190
+ipconfig /all (windows)
+
+nslookup google.com = achar ip do site(linux e windows)
+
+
+Dinâmico (Dynamic) DHCP
+Estático (Static) Manual
+
+so consegue sair da rede com o gateway, caso contrario fica como preso numa sala sem porta e sem janela
+DNS-01= 8.8.8.8
+DNS-02= 8.8.4.4
