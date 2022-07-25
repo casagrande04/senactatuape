@@ -2,3 +2,46 @@ DOCUMENTAÇÃO DESAFIO 20-07-2022
 
 Durante essas 4 aulas, realizamos os desafios propostos executando as instalações, exploramos as linhas de comando e aprendemos sobre algumas aplicações novas.
 
+    1  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+    2  git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+    3  ~/.fzf/install
+    4  git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+    5  git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k\n
+    6  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+    7  vim ~/.zshrc
+    8  ZSH_THEME="powerlevel10k/powerlevel10k"
+    9  vim ~/.zshrc
+   10  sudo -i
+   11  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   12  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+   13  git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+   14  git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions\n
+   15  git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k
+   16  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+   17  vim ~/.zshrc
+   18  rm ~/.zshrc.swp
+   19  vim ~/.zshrc
+   20  exit
+   21  clear
+   22  exit
+   23  sudo apt upgrade
+   24  sudo apt update
+   25  sudo apt full-upgrade
+   26  sudo apt dist-upgrade
+   27  sudo apt update
+   28  sudo apt autoclean
+   29  sudo apt autoremove
+   30  sudo apt install joystick jstest-gtk
+   31  sudo lsusb
+   32  localertl
+   33  localectl
+   34  cat /etc/os-release
+   35  sudo apt update
+   36  sudo apt install git
+   37  git clone https://github.com/vaamonde/pt_br-wpsoffice
+   38  cd pt_br-wpsoffice/
+   39  bash install.sh
+   40  exit
+   41  sudo apt install hollywood
+   42  hollywood
+   43  exit
